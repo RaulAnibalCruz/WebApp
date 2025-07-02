@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gandi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a44869a3549d2017ba57c5082f7919da207eacbd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gandi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gandi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

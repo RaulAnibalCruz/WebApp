@@ -5,10 +5,11 @@ a.navbar-brand[b-cgb2p62ahg] {
   white-space: normal;
   text-align: center;
   word-break: break-all;
+  background-color: blueviolet;
 }
 
 a[b-cgb2p62ahg] {
-  color: #03c6df;
+  color: red;
 }
 
 .btn-primary[b-cgb2p62ahg] {
@@ -48,3 +49,27 @@ button.accept-policy[b-cgb2p62ahg] {
   background-color: darkred;
 }
 
+
+.nav[b-cgb2p62ahg] {
+background-color: aqua;
+
+
+}
+
+.border-bottom[b-cgb2p62ahg]{
+  background-color: darkviolet;
+
+
+}
+
+.show[b-cgb2p62ahg]{
+background-color: darkgreen;
+
+}
+
+.pb-3[b-cgb2p62ahg] {
+  background-color: cornflowerblue;
+
+
+
+}

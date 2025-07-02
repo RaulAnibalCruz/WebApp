@@ -5,10 +5,11 @@ a.navbar-brand {
   white-space: normal;
   text-align: center;
   word-break: break-all;
+  background-color: blueviolet;
 }
 
 a {
-  color: #03c6df;
+  color: red;
 }
 
 .btn-primary {
@@ -48,3 +49,27 @@ button.accept-policy {
   background-color: darkred;
 }
 
+
+.nav {
+background-color: aqua;
+
+
+}
+
+.border-bottom{
+  background-color: darkviolet;
+
+
+}
+
+.show{
+background-color: darkgreen;
+
+}
+
+.pb-3 {
+  background-color: cornflowerblue;
+ 
+
+
+}
